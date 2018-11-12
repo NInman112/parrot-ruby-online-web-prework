@@ -6,4 +6,9 @@ def parrot(phrase = "Squawk!")
   return phrase
 end
 
-parrot()
+
+if phrase == "Squawk!"
+else
+  phrase == "Pretty Bird!"
+end
+  
