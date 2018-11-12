@@ -7,8 +7,4 @@ def parrot(phrase = "Squawk!")
 end
 
 
-if phrase == "Squawk!"
-else
-  phrase == "Pretty Bird!"
-end
   
