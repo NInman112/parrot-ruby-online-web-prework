@@ -4,7 +4,6 @@
 def parrot(phrase = "Squawk!")
  if phrase == "Squawk!"
       puts "#{phrase}"
-      
     else
   phrase = "Pretty Bird!"
   puts "#{phrase}"
